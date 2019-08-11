@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(19, 18, 18);
+}
+
+.container {
+    background-color: black; width: 700px; height: 700px; margin: auto;
+}
+
+.post {
+    background-color: white; width: 420px; height: 575px; margin: auto; position: relative; top: 65px;
+}
+
+div.name {
+    font-size: 8px; height: 30px; padding-left: 10px; padding-right: 10px;
+}
+
+img {
+    height: 300px; margin: auto; width: 100%; padding-top: 10px;
+}
+
+div.icons {
+    height: 30px; padding-left: 10px; padding-right: 10px; position: relative; top: 5px; bottom: 5px
+}
+
+.text {
+     padding-left: 10px; padding-right: 10px;
+}
+
+#share {
+    float: right
+}
+
+#dots {
+    float: right;
+}
+
+span {
+    font-size: 20px; position:relative; bottom:+12px
+}
+
+.ptag {
+    position:relative; bottom:-29px
+}
+
+.liketag {
+    position:relative; bottom:-21px
+}
